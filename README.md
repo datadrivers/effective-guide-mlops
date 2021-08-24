@@ -1,6 +1,8 @@
 # effective-guide-mlops
 Example end-to-end ml pipeline build with the Sagemaker Python SDK
 
+![Sagemaker](https://looker.com/assets/img/images/logos/external/bricks/amazon_sagemaker.png)
+
 
 ### 1. Data
 The [Penguin Dataset](https://allisonhorst.github.io/palmerpenguins/articles/intro.html) from Alison Horst is an alternative to the famous iris dataset that can be used for demonstrating various ml tasks. 
