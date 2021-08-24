@@ -2,8 +2,8 @@
 #### Example end-to-end ml pipeline build with the Sagemaker Python SDK
 
 <p float="left">
-<img src="https://looker.com/assets/img/images/logos/external/bricks/amazon_sagemaker.png" alt="Sagemaker" width="200"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" width="200"/>
+<img src="https://looker.com/assets/img/images/logos/external/bricks/amazon_sagemaker.png" alt="Sagemaker" height="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="200"/>
 </p>
 
 
