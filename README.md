@@ -1,7 +1,8 @@
 # effective-guide-mlops
 Example end-to-end ml pipeline build with the Sagemaker Python SDK
 
-![Sagemaker](https://looker.com/assets/img/images/logos/external/bricks/amazon_sagemaker.png)
+![Sagemaker](https://looker.com/assets/img/images/logos/external/bricks/amazon_sagemaker.png) ![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
+
 
 
 ### 1. Data
