@@ -27,3 +27,6 @@ The goal is to train a classifier that predicts the sex/gender of a penguin base
 - `eda.ipynb` visual exploration of the data
 - `ml_pipeline.ipynb` orchestrates preprocessing of the data, model training and deployment of the model as endpoint
 
+### 4 Tutorial Wolkthrough
+
+- head over to `notebooks.ml_pipeline.ipynb` and follow the procedure
