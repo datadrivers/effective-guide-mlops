@@ -1,3 +1,7 @@
 .idea
 .data*
 .env
+environment.yml
+*__pycache__*
+*train_data*
+.ipynb_checkpoints
